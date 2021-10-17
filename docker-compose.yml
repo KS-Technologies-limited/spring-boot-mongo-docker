@@ -42,8 +42,6 @@ volumes:
 
 networks:
   customoverlay:
-    external: true
+    #external: true
 
-#networks:
-  #springappnetwork:
-   # external:
+  
